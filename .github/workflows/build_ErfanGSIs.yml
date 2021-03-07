@@ -60,4 +60,4 @@ jobs:
        
        - name: Upload GSI to BitSend
          run: |
-              curl -sL https://6yun.cc/#/home?path=%2F/aa.zip
+              curl -sL https://6yun.cc/home?path=%2F/aa.zip
